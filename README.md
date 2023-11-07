@@ -1,5 +1,5 @@
-Banking Management MVC Application (Gradle and JSP)
-===============================
+# Banking Management MVC Application 
+A Banking Management Spring MVC Application with JSP and Bootstrap.
 
 ## Technologies and tools used:
 * Java 11
